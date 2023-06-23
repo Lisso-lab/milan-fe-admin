@@ -11,6 +11,8 @@ The point of releasing this is because I don't exploit that much and I felt like
 
 > And maybe rewrite some logic which is stupid.
 
+> Fix chatlogs outline length logic. !!!
+
 ## Filesystem doesn't work with celery nor Fluxus, haven't tried any others (at the time of posting, only microsoft client works)
 
 Thanks for contribution of inputhandeler from Articlize (*if you know, you know*)
