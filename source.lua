@@ -1,5 +1,6 @@
 --[[
     Made by: Thuxmwarn (Iss0)
+    Contributions: Articlize
     Discord: utc_3 (Thuxmwarn)
     Project made in the span of months, probably deserver UI rewrite, and some sort of logic rewrites.
 ]]
